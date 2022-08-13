@@ -36,7 +36,11 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
   <img src="https://img.shields.io/badge/CSS-0081CB?&style=for-the-badge&logo=css3&logoColor=white"/>
          <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
            <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
-         
+           <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
+          <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+         <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+          
       </p>
       
 ## About Personal Stuffs
@@ -72,6 +76,9 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+🏆 Trophy Stats
+<img  src="https://github-profile-trophy.vercel.app/?username=vaishali31verma"/>
 
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 <!-- ![VisitorCount](https://profile-counter.glitch.me/VedantKhairnar/count.svg) -->

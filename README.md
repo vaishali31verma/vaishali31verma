@@ -15,9 +15,10 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
   
 
    
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+   
       
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-092E20?style=for-the-badge&logo=heroku&logoColor=white" />
+   <img alt = "javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="redux" src="https://img.shields.io/badge/Redux-FF4500?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-FF4500?style=for-the-badge&logo=graphql&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
@@ -33,9 +34,9 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
       </p>
 
 ## About Personal Stuffs
-- 🔭 I’m currently working as a **Backend Developer**. 
-- 🌱 I’m currently focusing on **Frontend Web Development** and **Data Structures and Algorithms**.
-- 👯 I’d really like to collaborate on **Django** & **Flask** based projects.
+- 🔭 I’m currently working as a **FullStack Developer**. 
+- 🌱 I’m currently focusing on **Data Structures and Algorithms**.
+- 👯 I’d really like to collaborate on **Mongo** & **React** based projects.
 - 📚 I’m looking forward to contribute to **Open Source Projects**.
 - 💬 Ask me about ...anything i will try to help you if i can.
 - ⚡ Fun fact: I started coding at 18
@@ -43,20 +44,23 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 ## 🔥 My contribution streak
 
 <p align="center">
-  <a href="https://github.com/samir321-pixel/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samir321-pixel&theme=highcontrast&hide_border=true&background=0D1117&stroke=0000"/>
-        <img src="https://github-readme-stats.vercel.app/api?username=samir321-pixel&theme=highcontrast&show_icons=true"/>
+  <a href="https://github.com/vaishali31verma/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishali31verma&theme=highcontrast&hide_border=true&background=0D1117&stroke=0000"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=vaishali31verma&theme=highcontrast&show_icons=true"/>
   </a>
 </p>
-<!-- <a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samir321-pixel&layout=compact)"/>
+<!-- <a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishali31verma&layout=compact)"/>
   </a> -->
 
 <!-- ## 🔥 My Profile Views -->
-<h1 align="left"> <img src="https://komarev.com/ghpvc/?username=samir321-pixel&label=Profile%20views&color=0e75b6&style=flat" alt="tanvi2508" /> </h1>
+<h1 align="left"> <img src="https://komarev.com/ghpvc/?username=vaishali31verma&label=Profile%20views&color=0e75b6&style=flat" alt="tanvi2508" /> </h1>
 
 <h3>Where to find me 😃 </h3>
-<p><a href="https://github.com/samir321-pixel" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Samir_Saitwal" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="saitwalsamir@gmail.com/?hl=en" target="_blank">
+<p><a href="https://github.com/vaishali31verma" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<!-- <a href="https://twitter.com/Samir_Saitwal" target="_blank"> -->
+
+<!-- <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>  -->
+  <a href="gadaiyavaishali31@gmail.com/?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=gmail style="margin-bottom: 5px;" />
 </a> 
 </p>

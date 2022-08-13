@@ -8,6 +8,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
   
 <i>Happy Coding!</i> 😊
 </div>
+
 ## 👩‍💻 Languages [🔝](#welcome-badges-4-readmemd-profile)
 <p>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
@@ -17,6 +18,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
      <img alt="TYpescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
+
 ## 🚀 Frameworks & Library [🔝](#welcome-badges-4-readmemd-profile)
 <p>
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -41,12 +43,14 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
       <img src="https://img.shields.io/badge/postgres-0B96B2?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
+
 ## 👨 Social [🔝](#welcome-badges-4-readmemd-profile)
   <p>
    <img alt="git" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
          <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 </p>
+
 ## 📱 Contact [🔝](#welcome-badges-4-readmemd-profile)  
    <p>
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> 

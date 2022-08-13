@@ -58,7 +58,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishali31verma&theme=highcontrast&hide_border=true&background=0D1117&stroke=0000"/>
         <img src="https://github-readme-stats.vercel.app/api?username=vaishali31verma&theme=highcontrast&show_icons=true"/>
   </a>
-</p>
+
 <!-- <a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishali31verma&layout=compact)"/>
   </a> -->
 

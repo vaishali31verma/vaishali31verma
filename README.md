@@ -60,7 +60,7 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 <!-- <a href="https://twitter.com/Samir_Saitwal" target="_blank"> -->
 
 <!-- <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>  -->
-  <a href="gadaiyavaishali31@gmail.com/?hl=en" target="_blank">
+  <a href="gadaiyavaishali31@gmail.com?hl=en" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=gmail style="margin-bottom: 5px;" />
 </a> 
 </p>

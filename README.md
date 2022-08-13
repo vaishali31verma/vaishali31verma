@@ -1,8 +1,8 @@
 <h1>Hey there, I'm <a  href="https://github.com/vaishali31verma">Vaishali</a> 
-<img  src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" width="30px"> Nice to see you.</h1>
+<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Nice to see you.</h1>
 
 <h2>FullStack developer from India. ❤️ </h2>
-<img align='right' src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <div align="center">
 You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>

@@ -80,6 +80,11 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
 🏆 Trophy Stats
 <img  src="https://github-profile-trophy.vercel.app/?username=vaishali31verma"/>
 
+📊 Most Used Language
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishali31verma">
+
+
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 <!-- ![VisitorCount](https://profile-counter.glitch.me/VedantKhairnar/count.svg) -->
 

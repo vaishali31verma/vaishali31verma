@@ -28,6 +28,9 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
               <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-0B96B2?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img alt="MySQL" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img alt="TYpescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      
        <img src="https://img.shields.io/badge/CSS-0081CB?&style=for-the-badge&logo=css3&logoColor=white"/>
          <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>

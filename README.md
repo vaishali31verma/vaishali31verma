@@ -1,4 +1,5 @@
-<h1>Hey there, I'm <a  href="https://github.com/vaishali31verma">Vaishali</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Nice to see you.</h1>
+<h1>Hey there, I'm <a  href="https://github.com/vaishali31verma">Vaishali</a> 
+<img  src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif" width="30px"> Nice to see you.</h1>
 
 <h2>FullStack developer from India. ❤️ </h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">

@@ -35,8 +35,10 @@ Please feel free to clone/fork projects, raise issues and submit PRs if you thin
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-0081CB?&style=for-the-badge&logo=css3&logoColor=white"/>
          <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+           <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
+         
       </p>
-
+      
 ## About Personal Stuffs
 - 🔭 I’m currently working as a **FullStack Developer**. 
 - 🌱 I’m currently focusing on **Data Structures and Algorithms**.
